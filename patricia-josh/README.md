@@ -1,0 +1,1 @@
+This is a practice project. The purpose of it is to create a fun website with icons that are appealing to the user, and have the page be responsive so that it looks as desired on both desktop and mobile screens.

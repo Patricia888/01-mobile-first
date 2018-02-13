@@ -1,0 +1,1 @@
+As a user, I want an application that is easy to use, appeals visually, and easily provides the information I am looking for.

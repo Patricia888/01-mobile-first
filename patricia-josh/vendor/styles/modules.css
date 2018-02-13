@@ -10,6 +10,10 @@
     display: inline-block;
     border: none;
   }
+  .main-nav ul {
+    display: inline-block;
+  }
+  
 }
 
 .icon-menu {

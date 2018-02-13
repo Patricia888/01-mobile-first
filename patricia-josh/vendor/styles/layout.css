@@ -31,7 +31,11 @@ main header a {
 
 .byline > address {
   display: inline;
+  padding: 0px;
+  font-size: 17px;
 }
+
+
 .pull-right {
   float: right;
 }

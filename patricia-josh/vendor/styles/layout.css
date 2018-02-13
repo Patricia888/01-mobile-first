@@ -4,9 +4,22 @@ ul a {
   font-size: 22px;
 }
 
-body ul li {
+ul li {
   list-style: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #84a3e1;
+  margin-right: 10px;
 }
+
+.main-nav ul {
+  display: none;
+}
+
+.main-nav:hover ul{
+  display: block;
+}
+
 nav {
   padding-bottom: 5px;
 }
@@ -15,8 +28,9 @@ main header a {
   text-decoration: none;
   color: grey;
 }
-div .byline {
-  display: inline-block;
+
+.byline > address {
+  display: inline;
 }
 .pull-right {
   float: right;
